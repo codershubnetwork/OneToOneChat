@@ -5,5 +5,8 @@
 2- To setup the dependencies just run npm install.  
 3- Once done with dependencies just type node server to run the application.  
 
+## Demo  
+![chat](https://user-images.githubusercontent.com/46083274/87963872-dabd3f80-cad2-11ea-8e10-d6fb0ab25014.gif)
+
 ## Live sample link
 https://codershub-chat.herokuapp.com/
